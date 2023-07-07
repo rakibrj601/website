@@ -65,3 +65,38 @@ margin-left: 20px;
     color: white;
     background-color: black;
  }
+ .form-h2{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    background-color: rgb(48, 48, 48);
+ }
+ .form-container{
+    text-align: center;
+    width: 500px;
+    height: 150px;
+    box-shadow: 8px 8px 20px red;
+    background-color: bisque;
+
+    margin-top: 20px;
+    padding: 15px;
+    margin-bottom: 18px;
+  
+ }
+ .legend{
+    box-sizing: 10px;
+ }
+ .btn2{
+    margin: 4px;
+ }
+ .form-center{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: chocolate;
+ }
+ .table-h2{
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+ }
